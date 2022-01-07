@@ -9,8 +9,6 @@ const upperInput = name.toUpperCase();
 
 const lastLetter = upperInput.charAt(name.length - 1);
 
-console.log(lastLetter)
-
 //object of fortunes
 
 const fortunes = {
